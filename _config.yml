@@ -1,17 +1,3 @@
-# Site settings
-title: Andrew Johnston: Tech Writer
-email: gentleman1@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Website of Montreal-based technical writer Andrew Johnston.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: andrewjtech123
-github_username:  andrewjtech123
 
-# Build settings
-
+name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-kramdown:
-  input: GFM
-
-highlighter: pygments
