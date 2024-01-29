@@ -1,11 +1,19 @@
 
-name: Hank Quinlan, Horrible Cop
+name: Andrew Johnston
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 plugins: [jekyll-youtube]
 
